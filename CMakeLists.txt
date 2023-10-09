@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(Test_Daemon)
+project(New_Daemon)
 
 add_subdirectory(src)
 # add_subdirectory(tests)
